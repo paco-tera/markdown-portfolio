@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Amilkar](https://github.com/paco-tera/markdown-portfolio/blob/add-images-links/ceret.jpg)

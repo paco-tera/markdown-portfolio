@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+***I'm 46 years old living in São Paulo - Brazil, I started my career as accountant technician after that I became computer technician, as a metallurgical I worked at ThyssenKrupp (crankshaft), for now I want to break the brain block that myself created against the programming. ***
